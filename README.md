@@ -6,9 +6,10 @@
 
 **Συνδέσου με τον Root χρήστη στον server σου**
 
-1. **mkdir -p /var/www/pterodactyl/resources/lang/el**
-2. **cd /var/www/pterodactyl/resources/lang/el**
-3. **curl -Lo el.zip https://github.com/AlexanderOFGR/ptero-gr/archive/master.zip**
-4. **unzip el.zip**
+1. **cd /var/www/pterodactyl/resources/lang/**
+2. **wget https://raw.githubusercontent.com/AlexanderOFGR/ptero-gr/master/el.zip**
+3. **unzip el.zip**
+4. **rm el.zip**
+5. **Done! Μένει τώρα να πας στο Pterodactyl και να αλλάξεις την Γλώσσα σε Ελληνικά! (https://panel.yourdomain.com/admin/settings)**
 
-Direct Download Link: https://github.com/AlexanderOFGR/ptero-gr/archive/master.zip
+Direct Download Link: https://raw.githubusercontent.com/AlexanderOFGR/ptero-gr/master/el.zip
