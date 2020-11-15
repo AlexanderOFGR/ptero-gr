@@ -1,4 +1,4 @@
-# Pterodactyl Greek Language
+# Pterodactyl Greek Language (0.7)
 Προσθήκη της Ελληνικής γλώσσας στο Pterodactyl Panel. Η μετάφραση έγινε πολύ γρήγορα και οι πιθανότητες να υπάρχουν λάθη είναι πολλές.
 
 **INSTALL GUIDE (Ubuntu & Debian)**
@@ -13,3 +13,5 @@
 5. **Done! Μένει τώρα να πας στο Pterodactyl και να αλλάξεις την Γλώσσα σε Ελληνικά! (https://panel.yourdomain.com/admin/settings)**
 
 Direct Download Link: https://raw.githubusercontent.com/AlexanderOFGR/ptero-gr/master/el.zip
+
+WARNING: Δεν λειτουργεί με τις νεότερες εκδόσεις του Pterodactyl
